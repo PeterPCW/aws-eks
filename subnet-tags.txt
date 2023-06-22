@@ -1,0 +1,9 @@
+Private Subnet Tags
+
+kubernetes.io/cluster/lil-eks-cli: shared
+kubernetes.io/role/internal-elb: 1
+
+Public Subnet Tags
+
+kubernetes.io/cluster/lil-eks-cli: shared
+kubernetes.io/role/elb: 1
